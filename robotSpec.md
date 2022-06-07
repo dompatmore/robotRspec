@@ -6,7 +6,6 @@
 [ ] Stay stationary in air for 60s
 
 - Our Robot should be rainbow coloured *what does that mean?*
-
 [ ] It should be painted with 7 colours (ROYGBIV)
 
  
